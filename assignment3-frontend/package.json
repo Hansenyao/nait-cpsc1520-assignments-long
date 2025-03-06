@@ -1,0 +1,28 @@
+{
+  "name": "long-assignment3-hansenyao",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/UaFTACqq) # Top Rating Attribution",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPSC-1520/long-assignment3-Hansenyao.git"
+  },
+  "author": "Youfang Yao",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  },
+  "bugs": {
+    "url": "https://github.com/CPSC-1520/long-assignment3-Hansenyao/issues"
+  },
+  "homepage": "https://github.com/CPSC-1520/long-assignment3-Hansenyao#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
